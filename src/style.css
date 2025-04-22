@@ -69,10 +69,9 @@ main {
 }
 
 .weather-icon {
-  width: 88px;
-  height: 88px;
-  margin-top: 20px;
-  margin-right: 10px;
+  width: 85px;
+  height: 85px;
+  margin-top: 15px;
 }
 
 .temperature-value {
@@ -80,7 +79,6 @@ main {
   font-weight: 700;
   height: 125px;
   margin-top: 25px;
-  margin-left: 15px;
 }
 
 .temperature-unit {
@@ -103,16 +101,16 @@ main {
 
 .weather-forecast-date {
   text-align: center;
-  margin-bottom: 15px;
+  margin-bottom: -10px;
 }
 
 .weather-forecast-icon {
-  font-size: 50px;
+  width: 95%;
   text-align: center;
 }
 
 .weather-forecast-temperature {
-  margin-top: 15px;
+  margin-top: -10px;
   display: flex;
   justify-content: center;
   color: rgb(0, 183, 194);
